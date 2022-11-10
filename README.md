@@ -1,2 +1,2 @@
 # Love-code
-ok
+使用方法
